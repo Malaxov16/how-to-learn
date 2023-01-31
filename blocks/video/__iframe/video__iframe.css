@@ -1,0 +1,10 @@
+.video__frame {
+    width: 513px;
+    height: 316px;
+    margin-right: 20px;
+    
+}
+
+.video__frame:nth-last-of-type(2) {
+    margin-right: 0;
+}
